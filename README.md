@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadman Jarfi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src=https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707>
 
 - 🔭 I’m currently working on **History and Heritage Club**
 
