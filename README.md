@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **History and Heritage Club**
 
-- 🌱 I’m currently learning **Tailwind css**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **HTML/CSS**
 
